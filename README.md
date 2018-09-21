@@ -1,2 +1,2 @@
 # Hello-World
-This is a new comment for two.
+This is a new commit for two.
